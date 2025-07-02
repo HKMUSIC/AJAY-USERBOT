@@ -39,10 +39,10 @@ class Data:
             InlineKeyboardButton("ᴀʙᴏᴜᴛ 🎶", callback_data="about")
         ],
         [
-            InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇ's", url="https://t.me/BeastSupportGc"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ⛈️️", url="https://t.me/BEAST_ERA")
+            InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇ's", url="https://t.me/updtes_group"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ⛈️️", url="https://t.me/updtes_group")
         ],
-        [InlineKeyboardButton("🌿 ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌿", url="https://t.me/beingkhalnayak")],
+        [InlineKeyboardButton("🌿 ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌿", url="https://t.me/AJAY_OWN")],
     ]
 
     START = """
@@ -54,7 +54,7 @@ class Data:
 **❖ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ғᴏʀ ғᴜɴ.**
 **❖ ɪ ᴄᴀɴ ʙᴏᴏsᴛ ʏᴏᴜʀ ɪᴅ **
 **•─────────────────────────•**
-**❖ ʙʏ : [愛 I 𝐊𝐇𝐀𝐋𝐍𝐀𝐘𝐀𝐊](https://t.me/beingkhalnayak) 🚩**
+**❖ ʙʏ : [𝐀𝙹𝙰𝚈](https://t.me/AJAY_OWN) 🚩**
 """
 
     HELP = """
@@ -87,8 +87,8 @@ class Data:
 **sᴜᴘᴘᴏʀᴛᴇᴅ :- ʀᴇᴘʟʏ-ʀᴀɪᴅ, ɪᴅ-ᴄʟᴏɴᴇ, ʀᴀɪᴅ, sᴘᴀᴍ, ᴜsᴇʀ-ᴛᴀɢɢᴇʀ ᴇᴛᴄ.**
 
 **◌ ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](https://www.python.org)**
-**◌ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [愛 I 𝐊𝐇𝐀𝐋𝐍𝐀𝐘𝐀𝐊](https://t.me/beingkhalnayak)**
-**◌ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [愛 I 𝐊𝐇𝐀𝐋𝐍𝐀𝐘𝐀𝐊](https://t.me/beingkhalnayak)**
+**◌ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝐀𝙹𝙰𝚈](https://t.me/AJAY_OWN)**
+**◌ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝐀𝙹𝙰𝚈](https://t.me/AJAY_OWN)**
 """
 
     DONATE = """
@@ -97,7 +97,7 @@ class Data:
 **ᴡᴇ ᴘʀᴏᴠɪᴅᴇ 24×7 ᴜsᴇʙᴏᴛ ʜᴏsᴛɪɴɢ sᴇʀᴠɪᴄᴇ. sᴏ ᴡᴇ ᴀʟsᴏ ɴᴇᴇᴅ sᴏᴍᴇ ʜᴇʟᴘ ғᴏʀ ɪᴛ, ᴅᴏɴᴀᴛᴇ ɴᴏᴡ ᴠɪᴀ :-**
 **• ᴜᴘɪ ɪᴅ » **`himanshu49@fam or himanshu4hk9@okhdfcbank`
 **• ǫʀ ᴄᴏᴅᴇ » [ᴛᴀᴘ ᴛᴏ sᴇᴇ ǫʀ ᴄᴏᴅᴇ](https://t.me/GOJO_PAY_49) **
-**• ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ʙʏ ᴄᴏɴᴛᴀᴄᴛɪɴɢ [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/beingkhalnayak) 🚩**
+**• ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ʙʏ ᴄᴏɴᴛᴀᴄᴛɪɴɢ [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/AJAY_OWN) 🚩**
 
 **ʏᴏᴜʀ sᴍᴀʟʟ ᴀᴍᴏᴜɴᴛ ᴄᴀɴ ʜᴇʟᴘ ᴜs ᴀɴᴅ sᴛʀᴀɴɢᴇʀ ᴛᴏ ɢʀᴏᴡ ᴍᴏʀᴇ**
 """
